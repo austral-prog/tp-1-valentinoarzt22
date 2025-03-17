@@ -1,6 +1,6 @@
 def math():
-    a = 100
-    b = 5
+    a = 57
+    b = 7
     print(a + b)
     print(a - b)
     print(a * b)
